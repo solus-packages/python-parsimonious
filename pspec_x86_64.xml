@@ -1,0 +1,90 @@
+<PISI>
+    <Source>
+        <Name>python-parsimonious</Name>
+        <Packager>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Packager>
+        <License>MIT</License>
+        <PartOf>programmign.python</PartOf>
+        <Summary xml:lang="en">Parsimonious aims to be the fastest arbitrary-lookahead parser written in pure Python</Summary>
+        <Description xml:lang="en">Parsimonious aims to be the fastest arbitrary-lookahead parser written in pure Python
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>python-parsimonious</Name>
+        <Summary xml:lang="en">Parsimonious aims to be the fastest arbitrary-lookahead parser written in pure Python</Summary>
+        <Description xml:lang="en">Parsimonious aims to be the fastest arbitrary-lookahead parser written in pure Python
+</Description>
+        <PartOf>programmign.python</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious-0.7.0-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious-0.7.0-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious-0.7.0-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious-0.7.0-py2.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious-0.7.0-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/__init__.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/exceptions.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/exceptions.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/expressions.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/expressions.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/grammar.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/grammar.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/nodes.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/nodes.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/__init__.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/benchmarks.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/benchmarks.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_benchmarks.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_benchmarks.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_expressions.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_expressions.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_grammar.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_grammar.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_nodes.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_nodes.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/utils.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/utils.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/exceptions.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/expressions.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/grammar.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/nodes.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/utils.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/exceptions.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/expressions.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/grammar.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/nodes.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/test_benchmarks.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/test_expressions.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/test_grammar.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/test_nodes.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/benchmarks.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/test_benchmarks.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/test_expressions.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/test_grammar.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/test_nodes.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/utils.py</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2016-12-26</Date>
+            <Version>0.7.0</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Update>
+    </History>
+</PISI>
