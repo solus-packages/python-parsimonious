@@ -2,8 +2,8 @@
     <Source>
         <Name>python-parsimonious</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programmign.python</PartOf>
@@ -48,43 +48,43 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/tests/test_nodes.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/utils.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/parsimonious/utils.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious-0.7.0-py3.5.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/exceptions.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/expressions.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/grammar.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/nodes.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/__pycache__/utils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/exceptions.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/expressions.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/grammar.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/nodes.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/test_benchmarks.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/test_expressions.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/test_grammar.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/__pycache__/test_nodes.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/benchmarks.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/test_benchmarks.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/test_expressions.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/test_grammar.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/tests/test_nodes.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/parsimonious/utils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious-0.7.0-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious-0.7.0-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious-0.7.0-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious-0.7.0-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious-0.7.0-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/__pycache__/exceptions.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/__pycache__/expressions.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/__pycache__/grammar.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/__pycache__/nodes.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/__pycache__/utils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/exceptions.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/expressions.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/grammar.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/nodes.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/__pycache__/test_benchmarks.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/__pycache__/test_expressions.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/__pycache__/test_grammar.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/__pycache__/test_nodes.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/benchmarks.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/test_benchmarks.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/test_expressions.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/test_grammar.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/tests/test_nodes.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/parsimonious/utils.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2016-12-26</Date>
+        <Update release="2">
+            <Date>2018-01-31</Date>
             <Version>0.7.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
