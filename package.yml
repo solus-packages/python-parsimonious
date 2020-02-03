@@ -1,6 +1,6 @@
 name       : python-parsimonious
 version    : 0.7.0
-release    : 2
+release    : 3
 source     :
     - https://pypi.python.org/packages/11/db/06a1d0a41b4d236cd84fb27fced4479645b1fb6100501e03accde2804e51/parsimonious-0.7.0.tar.gz : 396d424f64f834f9463e81ba79a331661507a21f1ed7b644f7f6a744006fd938
 license    : MIT
